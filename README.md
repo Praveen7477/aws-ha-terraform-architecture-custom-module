@@ -40,7 +40,8 @@ This solution implements a scalable and highly available cloud architecture acro
 
 ## 🖼 Architecture Diagram
 
-![architecture](https://github.com/user-attachments/assets/37eaf5f3-bab5-4f2b-9079-989cfac6f90a)
+
+![architecture](https://github.com/user-attachments/assets/aa7d1c5d-57e9-4644-8a8f-8c4262bf2ceb)
 
 ```
 

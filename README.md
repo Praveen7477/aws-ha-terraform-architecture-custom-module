@@ -40,12 +40,10 @@ This solution implements a scalable and highly available cloud architecture acro
 
 ## 🖼 Architecture Diagram
 
-(Add your architecture diagram image here)
 
-Example:
 
-```md
-![architecture](https://github.com/user-attachments/assets/7e777dc7-c2c8-4fb6-813a-e959bd847404)
+![architecture](https://github.com/user-attachments/assets/37eaf5f3-bab5-4f2b-9079-989cfac6f90a)
+
 
 ```
 

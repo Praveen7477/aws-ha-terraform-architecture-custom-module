@@ -45,7 +45,8 @@ This solution implements a scalable and highly available cloud architecture acro
 Example:
 
 ```md
-![Architecture Diagram](./architecture.png)
+![architecture](https://github.com/user-attachments/assets/7e777dc7-c2c8-4fb6-813a-e959bd847404)
+
 ```
 
 ---

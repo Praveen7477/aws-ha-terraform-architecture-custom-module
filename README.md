@@ -186,6 +186,4 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-## 📜 License
-
-This project is for educational and portfolio purposes.
+## Thanks for reading :)

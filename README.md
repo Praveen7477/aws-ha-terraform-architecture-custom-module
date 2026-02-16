@@ -40,8 +40,9 @@ This solution implements a scalable and highly available cloud architecture acro
 
 ## 🖼 Architecture Diagram
 
+![Uploading ChatGPT Image Feb 16, 2026, 11_12_26 PM.png…]()
 
-![architecture](https://github.com/user-attachments/assets/aa7d1c5d-57e9-4644-8a8f-8c4262bf2ceb)
+
 
 ```
 
